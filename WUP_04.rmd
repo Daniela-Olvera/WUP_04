@@ -56,7 +56,7 @@ ggplot(data=GSS, aes(x = DEGREE, y = WORDSUM)) +
   ggtitle("Box Plot of Response variable by Category")
 ```
 
-This graph shows the WORDSUM scores of the those with a bachelor's degree, graduate degree, high school degree, junior colleges degree, and less than high school.
+In this graph we are shown the WORDSUM scores of the those with a bachelor's degree, graduate degree, high school degree, junior colleges degree, and less than high school.
   
 ### Numerical Descriptive Results
 
